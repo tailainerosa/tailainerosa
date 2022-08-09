@@ -1,0 +1,4 @@
+- 👋 olá meu nome é tailaine
+- 👀meu email de contato é tailane.belabe@escola.pr.gov.br
+- 🌱 estou enteressada em aprender a programar novas linguagens.
+- 💞️ estou aprendendo a programar recentimente a linguagem
